@@ -4,7 +4,7 @@ app=Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "hello word this is new"
+    return "hello word this is CI/CD"
 
 @app.route("/dhanraj")
 def dhanraj():
