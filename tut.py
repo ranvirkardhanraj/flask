@@ -8,7 +8,7 @@ def hello():
 
 @app.route("/dhanraj")
 def dhanraj():
-    return "this is dhanraj"
+    return "this is Dhanraj"
 
 @app.route("/devops")
 def devops():
